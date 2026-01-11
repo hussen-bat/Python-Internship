@@ -1,6 +1,5 @@
 # Hussen Shaikh 
-# Personal Information Manager
-# My first Python project
+# This is my first Python project! It's a program that stores and displays personal information.
 
 print("=" * 40)
 print("    PERSONAL INFORMATION MANAGER")
