@@ -1,4 +1,4 @@
-# Hussen Shaikh
+#Hussen Shaikh
 # Student Grade Calculator
 
 def calculate_grade(average):
