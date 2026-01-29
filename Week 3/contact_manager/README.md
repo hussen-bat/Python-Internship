@@ -50,7 +50,7 @@ WEEK3
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/SanskarMali726/Python_internship.git>
+git clone https://github.com/hussen-bat/Python-Internship.git
 
 cd week3/contact_manager
 
